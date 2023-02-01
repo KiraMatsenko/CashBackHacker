@@ -9,7 +9,7 @@ public class CashbackHackServiceTest {
     @Test
     public void remain() {
         CashbackHackService service = new CashbackHackService();
-        assertEquals(1, service.remain(999);
+        assertEquals(1, service.remain(999));
     }
 
     @Test
